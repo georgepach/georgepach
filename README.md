@@ -40,15 +40,6 @@ Here are some of the projects I'm most proud of:
 | **Smart Traffic Management System** | An AI system using YOLOv5 to detect vehicles and dynamically optimize traffic light signals, reducing congestion. | `Python`, `AI/ML`, `YOLOv5`, `Project Management` |
 | **DataTani** | A mobile app for the Forestry Department of Lampung to help farmers estimate rice yields more efficiently. | `Kotlin`, `Mobile Dev`, `Backend`, `Stakeholder Collaboration` |
 | **GreenLoop** | A web platform for waste exchange and collection, developed with React.js & Laravel, where I led as Project Manager. | `Project Management`, `Agile/Scrum`, `Web Dev`, `UI/UX` |
-| **Nosetalgia** | A digital media initiative for film and music reviews, where I founded and designed the content strategy. | `Founder`, `Product Strategy`, `Market Research`, `Content Creation` |
-| **LindungiHutan Consulting** | Developed strategies to improve donor retention for an NGO through gamification and storytelling. | `Strategy`, `Data Analysis`, `Stakeholder Presentation` |
-
----
-
-## 🏆 Achievements
-
-- 🎤 **Presenter** – *10th International Conference on Computer Science and Computational Intelligence (2025)*  
-- 🏅 **Finalist** – *UI/UX Competition, Business and System Innovation Challenge (BASIC 2024)*  
 
 ---
 
@@ -56,6 +47,3 @@ Here are some of the projects I'm most proud of:
 
 ![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgepach&show_icons=true&theme=tokyonight)  
 
----
-
-✨ *“Building digital solutions that matter — one project at a time.”* ✨
