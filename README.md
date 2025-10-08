@@ -36,7 +36,7 @@ Here are some of the projects I'm most proud of:
 | Project | Description | Key Tech / Skills |
 |---|---|---|
 | **Smart Traffic Management System** | An AI system using YOLOv5 to detect vehicles and dynamically optimize traffic light signals, reducing congestion. | `Python`, `AI/ML`, `YOLOv5`, `Project Management` |
-| **DataTani** | A mobile app for the Forestry Department of Lampung to help farmers estimate rice yields more efficiently. | `Kotlin`, `Mobile Dev`, `Backend`, `Stakeholder Collaboration` |
+| **DataTani** | A mobile app for the Forestry Department of Lampung to help farmers estimate rice yields more efficiently. | `Mobile Dev`, `Backend`, `Stakeholder Collaboration` |
 | **GreenLoop** | A web platform for waste exchange and collection, developed with React.js & Laravel, where I led as Project Manager. | `Project Management`, `Agile/Scrum`, `Web Dev`, `UI/UX` |
 
 ---
