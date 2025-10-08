@@ -25,9 +25,8 @@ From **AI-powered systems** and **full-stack mobile apps** to **strategic projec
 | **Area** | **Technologies & Skills** |
 |---|---|
 | **Languages** | Python, Java/Kotlin (Android), JavaScript, C/C++ |
-| **AI/ML** | YOLOv5, Computer Vision, TensorFlow, Scikit-learn |
-| **Development** | Full-Stack Mobile & Web Development, UI/UX Design |
-| **Tools & Platforms** | Git, GitHub, Figma, Docker |
+| **Development** | Full-Stack Developer, UI/UX Design |
+| **Tools & Platforms** | Git, GitHub, Figma|
 | **Methodologies** | Agile, Scrum, Project Management, Stakeholder Communication |
 
 ---
