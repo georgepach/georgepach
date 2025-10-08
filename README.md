@@ -13,10 +13,8 @@
 I'm a Computer Science student at **Bina Nusantara University** with a passion for turning ideas into impactful digital solutions.  
 From **AI-powered systems** and **full-stack mobile apps** to **strategic project management**, I love blending creativity with technology to build experiences that make a difference.  
 
-- 🔭 Currently diving deep into **AI development** and **mobile computing**.  
-- 🌱 Skilled in **Python, AI (YOLOv5), Full-Stack Mobile & Web Development, and Agile Project Management**.  
+- 🔭 Currently diving deep into **AI development** and **mobile computing**.   
 - 🤝 Open to collaborating on **innovative projects** that solve real-world problems.  
-- 💬 Ask me about **AI integration, project leadership, and building apps from the ground up**.  
 
 ---
 
