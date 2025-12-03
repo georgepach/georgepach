@@ -18,9 +18,3 @@ From **AI-powered systems** and **full-stack mobile apps** to **strategic projec
 
 ---
 
----
-
-## 📈 My GitHub Stats  
-
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=georgepach&show_icons=true&theme=tokyonight)  
-
