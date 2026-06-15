@@ -10,8 +10,7 @@
 <br />
 <br />
 
-I'm a Computer Science student at **Bina Nusantara University** with a passion for turning ideas into impactful digital solutions.  
-From **AI-powered systems** and **full-stack mobile apps** to **strategic project management**, I love blending creativity with technology to build experiences that make a difference.   
+turning ideas into impactful digital solutions, blending creativity with technology to build experiences that make a difference.   
 
 ---
 
